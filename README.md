@@ -1,2 +1,3 @@
 # PR-demo
-Repo to demonstrate how to do PR on GitHub for marketing team
+
+There's a spelling eror in this text, it needs to be fixed
